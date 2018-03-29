@@ -1,4 +1,4 @@
-# Amiga-A501-Clone-Expansion
+# Amiga-A501-RAM-Expansion
 RAM Expansion card for Amiga 500.
 
 Project under construction. 
