@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AS7C4098A
+D 1024k x 16 bit low power CMOS SRAM
+K memory SRAM
+F http://www.alliancememory.com/pdf/AS6C1616(1).pdf
+$ENDCMP
+#
+#End Doc Library
