@@ -1,0 +1,7 @@
+module ramController (
+		      input Ain,
+		      output Aout,
+		      
+		      )
+
+  endmodule // ramController

@@ -1,4 +1,4 @@
-update=Sun 10 Jun 2018 12:12:38 AEST
+update=Tue 19 Jun 2018 20:14:12 AEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -62,3 +62,4 @@ LibName30=atmel
 LibName31=contrib
 LibName32=valves
 LibName33=Library/AmigaRAM
+LibName34=Library/Lattice_iCE40_FPGA
