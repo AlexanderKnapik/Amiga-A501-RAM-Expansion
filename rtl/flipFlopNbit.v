@@ -13,23 +13,23 @@ module flipFlopNbit #(
    
 
   //Register for holding the output value. Used for assigning in an always block.
-  reg [(busWidth - 1):0] q;
+	reg [(busWidth - 1):0] q = 0;
    assign Q = q;
    
   
   always @(posedge(clk), negedge(reset_n)) begin
      //If the reset line is low, set the output to be zero despite the input.
      if(reset_n == 1'b0) begin
-	q = 0;
+	q <= 0;
      end
      //Else if the reset line is low, and the flip flops are clocked, set the output
      //to equal the input.
      else if (clk == 1'b1) begin
-	q = D;
+	q <= D;
      end
      //Else, keep the output the same.
      else begin
-	q = q;
+	q <= q;
      end
   end//always
    

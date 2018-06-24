@@ -1,0 +1,36 @@
+[*]
+[*] GTKWave Analyzer v3.3.91 (w)1999-2018 BSI
+[*] Sat Jun 23 10:43:35 2018
+[*]
+[dumpfile] "/home/alexander/Documents/Electronics/Amiga-A501-RAM-Expansion/rtl/ramController.vcd"
+[dumpfile_mtime] "Sat Jun 23 10:04:53 2018"
+[dumpfile_size] 1510
+[savefile] "/home/alexander/Documents/Electronics/Amiga-A501-RAM-Expansion/rtl/ramControllerWaveform.gtkw"
+[timestart] 0
+[size] 1278 1387
+[pos] -1 -1
+*-5.515939 120 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] ramController_tb.
+[treeopen] ramController_tb.s.
+[sst_width] 213
+[signals_width] 210
+[sst_expanded] 1
+[sst_vpaned_height] 422
+@22
+ramController_tb.s.Ain[8:0]
+ramController_tb.s.Aout[17:0]
+@28
+ramController_tb.s.RAS_n
+ramController_tb.s.CASL_n
+ramController_tb.s.CASU_n
+ramController_tb.s.CE_n
+ramController_tb.s.LB_n
+ramController_tb.s.UB_n
+ramController_tb.s.OEout_n
+ramController_tb.s.WE_n
+@22
+ramController_tb.s.addressOut[17:0]
+ramController_tb.s.rowAddress[8:0]
+ramController_tb.s.columnAddress[8:0]
+[pattern_trace] 1
+[pattern_trace] 0
