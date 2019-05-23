@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name a501-dram-based-design-rescue)(type Legacy)(uri "${KIPRJMOD}/a501 dram based design-rescue.lib")(options "")(descr ""))
+  (lib (name AmigaRAM)(type Legacy)(uri "/home/alexander/Documents/Electronics/Amiga-A501-RAM-Expansion/KiCAD Project/Library/AmigaRAM.lib")(options "")(descr ""))
+)
